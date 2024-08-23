@@ -1,10 +1,10 @@
-# Problem Definition:
+## Problem Definition:
 The problem is to predict the average money spent on taxi rides across different regions of New York per given day and hours. This is a supervised regression problem, where "supervised" implies that we have the actual values of the target variable for comparison, and "regression" denotes that the target variable is continuous, representing the monetary amount spent.
 
-# The algorithms I tried in the results:
+## The algorithms I tried in the results:
 I tried Decision Trees, Random Forest, Gradient Boosting.The benchmark model is a decision tree. In the benchmark model I only included  the original features of the model is stated above and on the normal models I used all original features plus with the newly created ones.
 
-# Performance:
+## Performance:
 | Algorithm               | MAE   | RMSE   | R2    |
 |-------------------------|-------|--------|-------|
 | Benchmark model         | 6.918 | 14.916 | 0.689 |
