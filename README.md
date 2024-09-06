@@ -16,10 +16,10 @@ I tried Decision Trees, Random Forest, Gradient Boosting.The benchmark model is 
 ## Model Visualizations
 
 ### Scatter plot for Decision Tree
-![Decision Tree](./images/decisiontree.png)
+![Decision Tree](/images/decision_tree.png)
 
 ### Scatter plot for Random Forest
-![Random Forest](./images/randomforest.png)
+![Random Forest](/images/random_forest.png)
 
 ### Scatter plot for Gradient Boosting
-![Gradient Boosting](./images/gradientboosting.png)
+![Gradient Boosting](/images/gradient_boosting.png)
