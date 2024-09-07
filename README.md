@@ -14,3 +14,13 @@ I tried Decision Trees, Random Forest, Gradient Boosting.The benchmark model is 
 | Tuned gradient boosting | 7.085 | 12.263 | 0.796 |
 
 
+## Visulization
+
+### Scatter plot of Random Forest 
+
+![Random forest](/images/random_forest.png)
+### Scatter plot of Gradient Boosting
+![Gradient Boosting](/images/gradient_boosting.png)
+### Scatter plot of Decision Tree
+![Decision tree](/images/decision_tree.png)
+
